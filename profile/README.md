@@ -28,5 +28,5 @@ Did you finish your journal already or do [you want to gift one to your bestie](
 - [Swift Island Lights](https://github.com/SwiftIsland/swift-island-lights) — Our attendees made the LEDs walk, run, and race! All the source is on GitHub. You can upload this to your own ESP from the electronics kit.  
 - [App Repo](https://github.com/SwiftIsland/app) — Found a bug in our app? It’s open source! Check out the source and create a PR.
 
-Enjoy!
+Enjoy!  
 The Swift Island github team
